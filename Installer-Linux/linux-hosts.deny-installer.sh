@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Linux hosts.deny Installer for the Ultimate Hosts Blacklist
+# Linux hosts.deny Installer for the Ultimate Hosts Blacklist FOOBAR
 # Repo Url: https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist
 # Copyright (c) 2020 Ultimate Hosts Blacklist - @Ultimate-Hosts-Blacklist
 # Copyright (c) 2017, 2018, 2019, 2020 Mitchell Krog - @mitchellkrogza
